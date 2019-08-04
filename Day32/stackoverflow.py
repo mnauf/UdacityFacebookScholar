@@ -1,0 +1,1 @@
+my_list = [{"fruit": "banana"}, {"fruit": "apple"}, {"fruit": "orange"}]
