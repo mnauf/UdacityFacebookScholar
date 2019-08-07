@@ -1,1 +1,1 @@
-#Secure And Private AI Scholarship Challenge
+# Secure And Private AI Scholarship Challenge
