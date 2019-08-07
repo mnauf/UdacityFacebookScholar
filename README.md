@@ -15,6 +15,8 @@ Watched
 - Talked to Andrew Trask (yayyyy), regarding a problem in pysyft.
 ![Andrew Trask chat](https://imgur.com/DpGiTQe.jpg)
 - Completed Federated Learning Lesson (except the project)
+- Realized I have completed 30 days of udacity
+![30 days of Udacity](https://imgur.com/3ooPd87.jpg)
 - Participated in Slack
 - Watched the following research paper summary videos:
 1) [Google's DeepMind AI Just Taught Itself To Walk](https://www.youtube.com/watch?v=gn4nRCC9TwQ)
