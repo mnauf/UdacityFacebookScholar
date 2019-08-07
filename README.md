@@ -7,6 +7,7 @@ Watched
 ## Day 35
 - Talked to Andrew Trask (yayyyy), regarding a problem in pysyft.
 - Completed Federated Learning Lesson (except the project)
+- Participated in Slack
 - Watched the following research paper summary videos:
 1) https://www.youtube.com/watch?v=gn4nRCC9TwQ
 2) https://www.youtube.com/watch?v=fcnjHmBcLNQ&t=81s
