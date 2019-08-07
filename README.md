@@ -2,9 +2,9 @@
 ## Day 33
 - Bought power supply for raspberry pi for group project #sg_pytorch-Robotics
 - Read some articles and watched a video about federated learning:
-1) Private AI — Federated Learning with PySyft and PyTorch
-2) Federated Learning: The Future of Distributed Machine Learning
-3) Making every phone smarter with Federated Learning: 
+1) [Private AI — Federated Learning with PySyft and PyTorch](https://towardsdatascience.com/private-ai-federated-learning-with-pysyft-and-pytorch-954a9e4a4d4e)
+2) [Federated Learning: The Future of Distributed Machine Learning](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897)
+3) [Making every phone smarter with Federated Learning](https://www.youtube.com/watch?v=gbRJPa9d-VU&fbclid=IwAR06a-ybQAs__eNoucWcsqI-kkAg19bkfyzuTU_aBkxnHCc5mB8qt9tAsFE)
 
 ## Day 34
 Watched
