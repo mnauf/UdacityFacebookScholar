@@ -6,7 +6,7 @@ Watched
 3) Encrypted and Decentralized AI - TensorFlow and Deep Learning: https://www.youtube.com/watch?v=H_moJZ2hQhk
 ## Day 35
 - Talked to Andrew Trask (yayyyy), regarding a problem in pysyft.
-![Andrew Trask chat](https://imgur.com/DpGiTQe)
+![Andrew Trask chat](https://imgur.com/DpGiTQe.jpg)
 - Completed Federated Learning Lesson (except the project)
 - Participated in Slack
 - Watched the following research paper summary videos:
