@@ -23,3 +23,6 @@ Watched
 2) [3D Style Transfer For Video is Now Possible!](https://www.youtube.com/watch?v=fcnjHmBcLNQ&t=81s)
 3) [AI Creates Facial Animation From Audio | Two Minute Papers #185](https://www.youtube.com/watch?v=ZtP3gl_2kBM&t=84s)
 4) [This AI Learned To See In The Dark](https://www.youtube.com/watch?v=bcZFQ3f26pA)
+## Day 36
+- Revised Federated Learning and did coding and pushed it to github
+- Looking for a dataset, which could satisfy federated learning project + #sg_pytorch-robotics project
