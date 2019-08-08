@@ -26,3 +26,6 @@ Watched
 ## Day 36
 - Revised Federated Learning and did coding and pushed it to github
 - Looking for a dataset, which could satisfy federated learning project + #sg_pytorch-robotics project
+- Participated in slack
+- Sending thanks and encouragemnets to #sg_pytorch-robotics mates: @Temitope Oladokun
+@qursaan @Shivam Raisharma @Jess @Sankalp Dayal @Nirupama Singh @Sushil Ghimire @Oudarjya Sen Sarma @Pooja Vinod @Juan Carlos Kuri Pinto @Alex Ahumada @Vigneshwari @Shashi Gharti @Helena Barmer @Nachiket @cibaca @Nirupama Singh @Dammy @Molly-ngampit @Elena Kutanov
