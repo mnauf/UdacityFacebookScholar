@@ -29,3 +29,5 @@ Watched
 - Participated in slack
 - Sending thanks and encouragemnets to #sg_pytorch-robotics mates: @Temitope Oladokun
 @qursaan @Shivam Raisharma @Jess @Sankalp Dayal @Nirupama Singh @Sushil Ghimire @Oudarjya Sen Sarma @Pooja Vinod @Juan Carlos Kuri Pinto @Alex Ahumada @Vigneshwari @Shashi Gharti @Helena Barmer @Nachiket @cibaca @Nirupama Singh @Dammy @Molly-ngampit @Elena Kutanov
+## Day 37
+- Trying to work on Federated Learning Project :( 
