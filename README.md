@@ -34,6 +34,6 @@ Watched
 ## Day 39
 - Completed Federated Learning Project with MNIST dataset, having two virtual workers
 - Attended #sg-pytorch-robotics meetup
-![Attended #sg-pytorch-robotics meetup](https://imgur.com/lnhEbYK)
+![Attended #sg-pytorch-robotics meetup](https://imgur.com/lnhEbYK.jpg)
 - Participated in slack
 - Sending thanks and encouragements to: @Juan Carlos Kuri Pinto @Helena Barmer @Mika @Suparna S Nair @Nancy Al Aswad @Temitope Oladokun
