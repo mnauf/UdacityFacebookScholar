@@ -31,3 +31,9 @@ Watched
 @qursaan @Shivam Raisharma @Jess @Sankalp Dayal @Nirupama Singh @Sushil Ghimire @Oudarjya Sen Sarma @Pooja Vinod @Juan Carlos Kuri Pinto @Alex Ahumada @Vigneshwari @Shashi Gharti @Helena Barmer @Nachiket @cibaca @Nirupama Singh @Dammy @Molly-ngampit @Elena Kutanov
 ## Day 37
 - Trying to work on Federated Learning Project :( 
+## Day 39
+- Completed Federated Learning Project with MNIST dataset, having two virtual workers
+- Attended #sg-pytorch-robotics meetup
+![Attended #sg-pytorch-robotics meetup](https://imgur.com/lnhEbYK)
+- Participated in slack
+- Sending thanks and encouragements to: @Juan Carlos Kuri Pinto @Helena Barmer @Mika @Suparna S Nair @Nancy Al Aswad @Temitope Oladokun
