@@ -39,3 +39,4 @@ Watched
 - Sending thanks and encouragements to: @Juan Carlos Kuri Pinto @Helena Barmer @Mika @Suparna S Nair @Nancy Al Aswad @Temitope Oladokun
 ## Day 39
 - Worked on a toy dataset with a trusted aggregator
+- Trying to understand Secretive additive Sharing
