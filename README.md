@@ -40,3 +40,5 @@ Watched
 ## Day 39
 - Worked on a toy dataset with a trusted aggregator
 - Trying to understand Secretive additive Sharing
+## Day 40
+- Read some articles on secret additive sharing
