@@ -42,3 +42,5 @@ Watched
 - Trying to understand Secretive additive Sharing
 ## Day 40
 - Read some articles on secret additive sharing
+## Day 41
+- Uninstalled and Installed several times pytorch,syft,raspbian from 11 am to 11 pm, to get things right for #sg_pytorch-robotics. Million thanks to Suparna for helping me out.
