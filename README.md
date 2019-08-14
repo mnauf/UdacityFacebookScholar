@@ -43,4 +43,10 @@ Watched
 ## Day 40
 - Read some articles on secret additive sharing
 ## Day 41
-- Uninstalled and Installed several times pytorch,syft,raspbian from 11 am to 11 pm, to get things right for #sg_pytorch-robotics. Million thanks to Suparna for helping me out.
+- Uninstalled and Installed several times pytorch,syft,raspbian from 11 am to 11 pm, to get things right for #sg_pytorch-robotics project. Million thanks to Suparna for helping me out.
+## Day 42
+- Day 42
+- Spent more or less 10 hours in configuring, installing things on Pi (Loving Raspbian Bluster) + training RNN for #sg_pytorch-robotics project. My laptop slept at 96% :slightly_smiling_face: :slightly_smiling_face: :slightly_smiling_face: I will have to go all over again )
+P.S. Happy Independence Day to all Pakistanis
+![Laptop slept at 96%](https://imgur.com/rLSeYhD.jpg)
+![Raspberry Pis working as web-socket client](https://imgur.com/uk1IlWW.jpg)
