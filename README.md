@@ -51,13 +51,12 @@ P.S. Happy Independence Day to all Pakistanis
 ![Laptop slept at 96%](https://imgur.com/rLSeYhD.jpg)
 ![Raspberry Pis working as web-socket client](https://imgur.com/uk1IlWW.jpg)
 ## Day 43
-Done with the #sg_pytorch-robotics project
+Done with the #sg_pytorch-robotics/showcase-challenge project
 - After 3 failed attempts:
 1. At 96% (laptop restarted)
 2. At around 30 % (laptop restarted)
 3. At 60 % (unstable internet)
-Because of unstable internet and my laptop sudden restarting for unknown reasons. 
- 
+Because of unstable internet and my laptop sudden restarting for unknown reasons.  
 Learned how to train a Recurrent Neural Network (RNN) in a federated way with the purpose of classifying a person's surname to its most likely language of origin.
 
 Trained two Recurrent Neural Networks residing on two remote workers(Raspberry Pis) based on a dataset containing approximately 20.000 surnames from 18 languages of origin, and predict to which language a name belongs based on the name's spelling.
