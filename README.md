@@ -53,9 +53,9 @@ P.S. Happy Independence Day to all Pakistanis
 ## Day 43
 Done with the #sg_pytorch-robotics project
 - After 3 failed attempts:
-1. At 94 or 96%
-2. At around 30 %
-3. At 60 % 
+1. At 96% (laptop restarted)
+2. At around 30 % (laptop restarted)
+3. At 60 % (unstable internet)
 Because of unstable internet and my laptop sudden restarting for unknown reasons. 
  
 Learned how to train a Recurrent Neural Network (RNN) in a federated way with the purpose of classifying a person's surname to its most likely language of origin.
