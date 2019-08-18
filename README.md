@@ -64,3 +64,7 @@ Trained two Recurrent Neural Networks residing on two remote workers(Raspberry P
 ![Screenshot](https://imgur.com/knL8Il2.jpg)
 ![Screenshot](https://imgur.com/ZBcHLKq.jpg)
 ![Screenshot](https://imgur.com/pRknUYL.jpg)
+## Day 44
+ Published article on Medium about [Federated Learning of a Recurrent Neural Network for text classification, with Raspberry Pis working as remote workers](https://medium.com/@m.naufil1/federated-learning-of-a-recurrent-neural-network-for-text-classification-with-raspberry-pis-6ce184f85a2a)
+ ![Screenshot](https://imgur.com/xdIuuaa.jpg)
+ ![Screenshot](https://imgur.com/ZPshLtD.jpg)
