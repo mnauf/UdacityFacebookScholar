@@ -68,3 +68,5 @@ Trained two Recurrent Neural Networks residing on two remote workers(Raspberry P
  Published article on Medium about [Federated Learning of a Recurrent Neural Network for text classification, with Raspberry Pis working as remote workers](https://medium.com/@m.naufil1/federated-learning-of-a-recurrent-neural-network-for-text-classification-with-raspberry-pis-6ce184f85a2a)
  ![Screenshot](https://imgur.com/xdIuuaa.jpg)
  ![Screenshot](https://imgur.com/ZPshLtD.jpg)
+ ## Day 45
+ Done ith Secured Federated Leaning lesson
