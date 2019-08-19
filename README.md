@@ -73,7 +73,7 @@ Trained two Recurrent Neural Networks residing on two remote workers(Raspberry P
  ## Day 46
  Revised Secured federated Learning
  ## Day 47
- - Celebrated sir Andrew commiting to sharing my medium blog I wrote for #sg_pytorch-robotics group project. 
+ - Celebrated sir Andrew commiting to sharing my medium blog I wrote for #sg_pytorch-robotics group project at twitter @openminedorg. 
  - He also gave 50 claps on my article
  - Mr. DanyEle, who is the author of the official blog at openmined also appreciated it. 
  - Completed the course
