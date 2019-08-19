@@ -70,3 +70,17 @@ Trained two Recurrent Neural Networks residing on two remote workers(Raspberry P
  ![Screenshot](https://imgur.com/ZPshLtD.jpg)
  ## Day 45
  Done with Secured Federated Leaning lesson
+ ## Day 46
+ Revised Secured federated Learning
+ ## Day 47
+ - Celebrated sir Andrew commiting to sharing my medium blog I wrote for #sg_pytorch-robotics group project. 
+ - He also gave 50 claps on my article
+ - Mr. DanyEle, who is the author of the official blog at openmined also appreciated it. 
+ - Completed the course
+ - Participated in slack
+ ![Appreciation comment by sir Andrew](https://imgur.com/AD5TUYP.jpg)
+ ![Appreciation comment by Mr. DanyEle](https://imgur.com/Vtgbeew.jpg)
+ ![Claps by Sir Andrew](https://imgur.com/cVx25M3.jpg)
+ ![Completed course screenshot](https://imgur.com/QLM34VE.jpg)
+ ![Another screenshot for course completed](https://imgur.com/CGK4Jmc.jpg)
+ P.S I feel like, I have mistakenly mentioned wrong day numbers on slack 60daysofudacity channel. I am sorry for that
