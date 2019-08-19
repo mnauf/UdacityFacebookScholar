@@ -69,4 +69,4 @@ Trained two Recurrent Neural Networks residing on two remote workers(Raspberry P
  ![Screenshot](https://imgur.com/xdIuuaa.jpg)
  ![Screenshot](https://imgur.com/ZPshLtD.jpg)
  ## Day 45
- Done ith Secured Federated Leaning lesson
+ Done with Secured Federated Leaning lesson
