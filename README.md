@@ -1,4 +1,7 @@
 # Secure And Private AI Scholarship Challenge
+## Day 27
+Trying to work on a little task given at the end of the video 4 of lesson federated learning where we are required to make 2 virtual workers and play with it but this error keeps popping up. Reinstalled different versions of torch and syft to make thus error go away but nothing happens.
+![Screenshot](https://imgur.com/v3VuUS7.jpg)
 ## Day 28:
 - Installed pytorch + pysyft in my another laptop + another pi (in process. Leaving it to install overnight). This time I just SSD instead of SD card with Pi and concluded that, before pi would take 12+ hours to build pytorch and with SSD it took only 3 hours. I would suggest everybody in #sg_pytorch-robotics to go for SSD instead of SD cards. I am all ready for project.
 ## Day 29
