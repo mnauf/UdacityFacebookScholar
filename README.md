@@ -1,4 +1,10 @@
 # Secure And Private AI Scholarship Challenge
+## Day 30
+Day 30
+- Practiced basic remote execution
+- Played with remote tensors by sending and receiving data from two virtual workers
+- Learned doing arithmetic operations on remote tensors
+[Practice Code](https://github.com/mnauf/UdacityFacebookScholar/tree/master/Day30)
 ## Day 31
 - Learned calculating gradient on remote tensors
 - Learned building a simple linear model with pysyft
