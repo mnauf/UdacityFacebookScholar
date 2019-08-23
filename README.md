@@ -1,4 +1,15 @@
 # Secure And Private AI Scholarship Challenge
+## Day 25
+- Successfully Installed torch and pysft in Raspberry pi and laptop for a group project. It was a challenging task to install in raspberry pi. The installation took 24 hours to complete, ignoring the fact that another 24 hours I had wasted by installing the above packages in the wrong python version.
+- Practiced a bit federated learning basic coding
+- Meetup with #sg_pytorch-robotics
+Sending thanks and encouragement to today's attendees: @Bhanujeet Choudhary@Elena Kutanov @Mohammad Diab @Dammy @Joyce Obi@Joyce @Marwa@erinSnPAI @Oudarjya Sen Sarma @Jess@Mateusz @qursaan @Suraiya Khan @Anju Mercian@Sourav @Ahmed MAGDY EISSA @Ayesha Manzur@Nancy Al Aswad @Droid @Laura A @susyjam @Harkirat@Vipul Aggarwal @Helena Barmer
+- Participated in slack
+Q1: https://lnkd.in/dV4BmXW
+Q2: https://lnkd.in/dJMNeSY
+![Screenshot](https://imgur.com/UBz8PwR.jpg)
+![Screenshot](https://imgur.com/c8i2y77.jpg)
+![Screenshot](https://imgur.com/lFnSNhf.jpg)
 ## Day 26
 - Watched this video about [Federated Learning: Machine Learning on Decentralized Data (Google I/O'19)](https://lnkd.in/dBmt5xi)
 ## Day 27
