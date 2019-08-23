@@ -1,4 +1,14 @@
 # Secure And Private AI Scholarship Challenge
+## Day 31
+- Learned calculating gradient on remote tensors
+- Learned building a simple linear model with pysyft
+- Had a Zoom meetup with #sg_pytorch-robotics
+- Sending thanks and encouragements to #sg_pytorch-robotics group members who joined today @Helena Barmer @Juan Carlos Kuri Pinto @Pooja Vinod @Jess @Bhadresh Savani @Oudarjya Sen Sarma@Elena Kutanov @Temitope Oladokun @Sourav @Joyce @Stanislav Ladyzhenskiy @Suparna S Nair@Nirupama Singh @Mateusz @Lisa Crossman @Ebinbin Ajagun @Mahitej @susyjam @Divya @Molly-ngampit @Dammy @Ayesha Manzur @Sayed Maheen Basheer @Mahak Bansal @Tanat Tonguthaisri
+- Did a sneak peak in the AWS deep racer course
+Github: https://lnkd.in/dKUdAaA
+![Screenshot](https://imgur.com/ABSvmHH.jpg)
+![Screenshot](https://imgur.com/5Qh7G5m.jpg)
+![Screenshot](https://imgur.com/1fayHYc.jpg)
 ## Day 32
 - Learned about garbage collection in pysyft
 - Toy federated Learning
