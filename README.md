@@ -1,6 +1,10 @@
 # Secure And Private AI Scholarship Challenge
+## Day 29
+- Learned cloning SD card, instead of installing Everytime packages in a new SD card.
+- Installed Jupyter notebook on Pi.
+- Did coding on my Pi and pushed it to GitHub: https://lnkd.in/de59Kni
+- Watched this amazing video of [How Neural networks look like in 3D](https://lnkd.in/dJy3uEy) 
 ## Day 30
-Day 30
 - Practiced basic remote execution
 - Played with remote tensors by sending and receiving data from two virtual workers
 - Learned doing arithmetic operations on remote tensors
