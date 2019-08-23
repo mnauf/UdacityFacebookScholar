@@ -1,4 +1,8 @@
 # Secure And Private AI Scholarship Challenge
+## Day 32
+- Learned about garbage collection in pysyft
+- Toy federated Learning
+[Practice Code](https://github.com/mnauf/UdacityFacebookScholar/tree/master/Day32)
 ## Day 33
 - Bought power supply for raspberry pi for group project #sg_pytorch-Robotics
 - Read some articles and watched a video about federated learning:
