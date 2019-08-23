@@ -1,4 +1,6 @@
 # Secure And Private AI Scholarship Challenge
+## Day 26
+- Watched this video about [Federated Learning: Machine Learning on Decentralized Data (Google I/O'19)](https://lnkd.in/dBmt5xi)
 ## Day 27
 Trying to work on a little task given at the end of the video 4 of lesson federated learning where we are required to make 2 virtual workers and play with it but this error keeps popping up. Reinstalled different versions of torch and syft to make thus error go away but nothing happens.
 ![Screenshot](https://imgur.com/v3VuUS7.jpg)
