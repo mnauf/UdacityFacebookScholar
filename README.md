@@ -83,4 +83,18 @@ Trained two Recurrent Neural Networks residing on two remote workers(Raspberry P
  ![Claps by Sir Andrew](https://imgur.com/cVx25M3.jpg)
  ![Completed course screenshot](https://imgur.com/QLM34VE.jpg)
  ![Another screenshot for course completed](https://imgur.com/CGK4Jmc.jpg)
- P.S I feel like, I have mistakenly mentioned wrong day numbers on slack 60daysofudacity channel. I am sorry for that
+ P.S I feel like, I have mistakenly mentioned wrong day numbers on slack 60daysofudacity channel. I am sorry for that.
+ ## Day 48
+ Scanned the following books vaguely to pick book to follow, since my Udacity course has been finished.
+ ![Books](https://imgur.com/1laZLjg.jpg)
+ ## Day 49
+- Learned about [ROS actions](http://www.theconstructsim.com/…/ros-cou…/ros-python-course/) and services and practically used it in simulator
+- Watched [this](https://youtu.be/ZJixNvx9BAc) video about Machine Learning: Living in the Age of AI | A WIRED Film.
+ ## Day 50
+-- Studied about how to use rotating proxies and user agents in web scrapping (for a personal digital assistant). I need the other web scrapping practitioners in my friend list to suggest me, how do they avoid to get blocked from websites doing web scrapping?
+1. Do you use free rotating IP addresses and User agents or 
+2. do you use any free library which automatically handles the job of rotating IPs and user agents. 
+3. do you use any paid rotating IP addresses and user agents or 
+4. a paid library, which automatically handles rotating IPs and user agents.
+-- Learned about Unsupervised Learning from Andrew NG Machine learning course
+![screenshot](https://imgur.com/EOeNVVs.jpg)
