@@ -1,4 +1,6 @@
 # Secure And Private AI Scholarship Challenge
+## Day 28:
+- Installed pytorch + pysyft in my another laptop + another pi (in process. Leaving it to install overnight). This time I just SSD instead of SD card with Pi and concluded that, before pi would take 12+ hours to build pytorch and with SSD it took only 3 hours. I would suggest everybody in #sg_pytorch-robotics to go for SSD instead of SD cards. I am all ready for project.
 ## Day 29
 - Learned cloning SD card, instead of installing Everytime packages in a new SD card.
 - Installed Jupyter notebook on Pi.
