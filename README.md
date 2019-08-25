@@ -144,5 +144,6 @@ Trained two Recurrent Neural Networks residing on two remote workers(Raspberry P
 - #sg_pytorch-robotics meetup. Thanks for joining: @Jess @Mika @Pranjal Chaubey @Elena Kutanov @cibaca @Mateusz @Stanislav Ladyzhenskiy @Sourav @Suparna S Nair @Helena Barmer. I encourage you all to create exciting new learning materials in the last days of this challenge.
 ![Screenshot](https://imgur.com/1PHDD59.jpg)
 - Learned following things in CNN
+
 ![Screenshot](https://imgur.com/Dp5e93T.jpg)
 
