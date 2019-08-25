@@ -140,3 +140,6 @@ Trained two Recurrent Neural Networks residing on two remote workers(Raspberry P
 4. a paid library, which automatically handles rotating IPs and user agents.
 -- Learned about Unsupervised Learning from Andrew NG Machine learning course
 ![screenshot](https://imgur.com/EOeNVVs.jpg)
+## Day 53
+- #sg_pytorch-robotics meetup. Thanks for joining: @Jess @Mika @Pranjal Chaubey @Elena Kutanov @cibaca @Mateusz @Stanislav Ladyzhenskiy @Sourav @Suparna S Nair @Helena Barmer. I encourage you all to create exciting new learning materials in the last days of this challenge.
+- Learned following things in CNN
