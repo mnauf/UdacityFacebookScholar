@@ -69,6 +69,9 @@ and another video: [Convolutional Networks](https://lnkd.in/dxJ5fhR)
 - Tried setting up Cuda environment in local machine by installing cuda toolkit of nvidia and download visual studio. torch.cuda.is_available() still showing False.
 ![Screenshot](https://imgur.com/kTvMv0k.jpg)
 ## Day 13
+- Attended today's seminar of Bobby Wagner
+- Learned the types of differential privacies and their difference in between (Lesson 5 first two videos)
+- Again tried to run and troubkeshoot Cuda in my local machine. Not successful so far :(
 ## Day 14
 ## Day 15
 ## Day 16
