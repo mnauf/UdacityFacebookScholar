@@ -38,6 +38,9 @@ https://lnkd.in/dvkJ2hm
 ![Screenshot](https://imgur.com/xRDg1jH.png)
 ![Screenshot](https://imgur.com/azmIjFQ.png)
 ## Day 6
+I want to understand how dropout works and a coursemate suggested me [the 7th video](https://lnkd.in/dNWUCMz). but for that, first, I need to learn the first 6
+I have watched first three videos and 4th is in the midst. Tried to read [this research paper](https://lnkd.in/dcWWXej) on dropout first but left it in between xD
+![Screenshot](https://imgur.com/4UDIX24.jpg)
 ## Day 7
 ## Day 8
 ## Day 9
