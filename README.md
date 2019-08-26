@@ -45,6 +45,13 @@ I have watched first three videos and 4th is in the midst. Tried to read [this r
 - Did revision of half completed deep learning with pytorch.
 - learned about regularization from [this source](https://lnkd.in/dt5r4BR)
 ## Day 8
+Learned about dropout. At first it seemed to me like a funny technique, which nobody knows why works, but it does. But the "intuition" titled videos of Andrew NG always clarifies the remaining confusions, and loved the idea of drop out. How an algorithm shouldn't take any unit in layer for granted.
+
+List of videos I watched today: 
+1) [Why Regularization Reduces Overfitting (C2W1L05)](https://lnkd.in/gEepj8T)
+2) [Understanding Dropout (C2W1L07)](https://lnkd.in/gbdr_RS)
+3) [Dropout Regularization (C2W1L06)](https://lnkd.in/geTmeKm)
+![Screenshot](https://imgur.com/kAmDxv3.jpg)
 ## Day 9
 ## Day 10
 ## Day 11
