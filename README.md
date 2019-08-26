@@ -73,6 +73,11 @@ and another video: [Convolutional Networks](https://lnkd.in/dxJ5fhR)
 - Learned the types of differential privacies and their difference in between (Lesson 5 first two videos)
 - Again tried to run and troubkeshoot Cuda in my local machine. Not successful so far :(
 ## Day 14
+- Finally got my Cuda working.
+- Fell in love with my GTX 960 M <3 Realized that it trains my batch of 64 images 182 times faster than my CPU :D :D :D This example can also solve confusions of my peers, who wonder what CUDA is or why they should buy CUDA supported machines or how beneficial it is to buy CUDA supportted laptops.
+![Screenshot](https://imgur.com/dquFHgZ.jpg)
+![Screenshot](https://imgur.com/X92FxeY.jpg)
+![Screenshot](https://imgur.com/wOgc8EY.jpg)
 ## Day 15
 ## Day 16
 ## Day 17
