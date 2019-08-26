@@ -14,6 +14,8 @@ By the end of Day 1, I have my nano-degree 36% viewed. Spent 3+ hours on Day 1.
 ![Screenshot](https://imgur.com/wSan4ed.jpg)
 ![Screenshot](https://imgur.com/ebJlXTP.jpg)
 ## Day 2
+Day 2
+- Learned the basic intuition of cost function and [back propagation in neural networks](https://lnkd.in/d7vY_jx)
 ## Day 3
 ## Day 4
 ## Day 5
