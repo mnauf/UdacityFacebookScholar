@@ -141,7 +141,8 @@ Studied about how to use rotating proxies and user agents in web scrapping (for 
 -- Learned about Unsupervised Learning from Andrew NG Machine learning course
 ![screenshot](https://imgur.com/EOeNVVs.jpg)
 ## Day 51
-- Learning about CNN from "Intro to deep learning with pytorch" course on Udacity
+- Learning about CNN from "Intro to deep learning with pytorch" course on Udacity.
+![Screenshot](https://imgur.com/Hj5qpR7.jpg)
 ## Day 52
 Continued on with CNN Lesson in "Intro to Deep Learning with Pytorch Course" (Idk why they are revising MLP)
 - Published my previously written article for review to "Secure and Private AI Writing Challenge"
