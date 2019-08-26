@@ -1,4 +1,8 @@
 # Secure And Private AI Scholarship Challenge
+Train smarter AI models by learning to safely and securely use distributed private data with differential privacy, federated learning, and encrypted computation techniques. Apply for a Challenge Scholarship for the chance to participate in a vibrant student community and to earn one of 300 follow-up Nanodegree scholarships to continue your education with PyTorch and other deep learning tools.
+
+Learn more about this challenge [here](https://www.udacity.com/facebook-AI-scholarship)
+Challenge has been finished? Don't worry you can still join the course because its free. Join from [here](https://www.udacity.com/course/secure-and-private-ai--ud185)
 ## Day 1
 I have already completed Introducing Differential Privacy and Evaluating the privacy of a function.
 
