@@ -92,7 +92,9 @@ I think the kernel is incomplete yet. I need to do de-skew the results maybe.
 - Updated the kaggle kernel with the (new code)[https://lnkd.in/dFisB_x]
 
 ![Screenshot](https://imgur.com/Sl0rFRg.jpg)
-
+![Screenshot](https://imgur.com/1MdutOa.jpg)
+![Screenshot](https://imgur.com/UOzI7Vd.jpg)
+![Screenshot](https://imgur.com/HSg4Zel.jpg)
 ## Day 18
 ## Day 19
 ## Day 20
