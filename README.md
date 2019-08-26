@@ -1,4 +1,29 @@
 # Secure And Private AI Scholarship Challenge
+## Day 1
+## Day 2
+## Day 3
+## Day 4
+## Day 5
+## Day 6
+## Day 7
+## Day 8
+## Day 9
+## Day 10
+## Day 11
+## Day 12
+## Day 13
+## Day 14
+## Day 15
+## Day 16
+## Day 17
+## Day 18
+## Day 19
+## Day 20
+## Day 21
+## Day 22
+## Day 23
+## Day 24
+
 ## Day 25
 - Successfully Installed torch and pysft in Raspberry pi and laptop for a group project. It was a challenging task to install in raspberry pi. The installation took 24 hours to complete, ignoring the fact that another 24 hours I had wasted by installing the above packages in the wrong python version.
 - Practiced a bit federated learning basic coding
