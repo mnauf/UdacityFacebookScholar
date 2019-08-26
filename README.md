@@ -133,13 +133,19 @@ Trained two Recurrent Neural Networks residing on two remote workers(Raspberry P
 - Learned about [ROS actions](http://www.theconstructsim.com/…/ros-cou…/ros-python-course/) and services and practically used it in simulator
 - Watched [this](https://youtu.be/ZJixNvx9BAc) video about Machine Learning: Living in the Age of AI | A WIRED Film.
  ## Day 50
--- Studied about how to use rotating proxies and user agents in web scrapping (for a personal digital assistant). I need the other web scrapping practitioners in my friend list to suggest me, how do they avoid to get blocked from websites doing web scrapping?
+Studied about how to use rotating proxies and user agents in web scrapping (for a personal digital assistant). I need the other web scrapping practitioners in my friend list to suggest me, how do they avoid to get blocked from websites doing web scrapping?
 1. Do you use free rotating IP addresses and User agents or 
 2. do you use any free library which automatically handles the job of rotating IPs and user agents. 
 3. do you use any paid rotating IP addresses and user agents or 
 4. a paid library, which automatically handles rotating IPs and user agents.
 -- Learned about Unsupervised Learning from Andrew NG Machine learning course
 ![screenshot](https://imgur.com/EOeNVVs.jpg)
+## Day 51
+- Learning about CNN from "Intro to deep learning with pytorch" course on Udacity
+## Day 52
+Continued on with CNN Lesson in "Intro to Deep Learning with Pytorch Course" (Idk why they are revising MLP)
+- Published my previously written article for review to "Secure and Private AI Writing Challenge"
+![Screenshot](https://imgur.com/6pumnl8.jpg)
 ## Day 53
 - #sg_pytorch-robotics meetup. Thanks for joining: @Jess @Mika @Pranjal Chaubey @Elena Kutanov @cibaca @Mateusz @Stanislav Ladyzhenskiy @Sourav @Suparna S Nair @Helena Barmer. I encourage you all to create exciting new learning materials in the last days of this challenge.
 ![Screenshot](https://imgur.com/1PHDD59.jpg)
