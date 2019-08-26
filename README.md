@@ -57,6 +57,9 @@ List of videos I watched today:
 - Coded practically, how over fitting leads to variance.
 ![Screenshot](https://imgur.com/YvMCgMX.png)
 ## Day 10
+- Learned how dropout decreases variance
+![Screenshot](https://imgur.com/4QzpRpC.png)
+- Learned the difference between training a neural network for Mnist dataset between pytorch and tensorflow from [this source](https://lnkd.in/dhXk6gz)
 ## Day 11
 ## Day 12
 ## Day 13
