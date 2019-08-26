@@ -61,6 +61,10 @@ List of videos I watched today:
 ![Screenshot](https://imgur.com/4QzpRpC.png)
 - Learned the difference between training a neural network for Mnist dataset between pytorch and tensorflow from [this source](https://lnkd.in/dhXk6gz)
 ## Day 11
+- Watched first 5 videos of [convolutional neural networks Playlist](https://lnkd.in/dmvPDf3)
+and another video: [Convolutional Networks](https://lnkd.in/dxJ5fhR)
+![Screenshot](https://imgur.com/HowBzPE.png)
+![Screenshot](https://imgur.com/K7UJJUI.png)
 ## Day 12
 ## Day 13
 ## Day 14
