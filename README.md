@@ -1,5 +1,18 @@
 # Secure And Private AI Scholarship Challenge
 ## Day 1
+I have already completed Introducing Differential Privacy and Evaluating the privacy of a function.
+
+Today: 
+- I took the pledge. 
+- I am struggling with Deep Learning with Pytorch. Tried grasping video 12 and 13 of this lesson. 
+- Was confused in neural networks so took help from Andrew NG and completed the following videos from his famous Machine Learning course and gave his quiz and got 80%.
+- Learned how logic operators can be represented as neural networks from Andrew NG. 
+
+By the end of Day 1, I have my nano-degree 36% viewed. Spent 3+ hours on Day 1.
+![Screenshot](https://imgur.com/Zw35yAW.jpg)
+![Screenshot](https://imgur.com/No1xNFG.jpg)
+![Screenshot](https://imgur.com/wSan4ed.jpg)
+![Screenshot](https://imgur.com/ebJlXTP.jpg)
 ## Day 2
 ## Day 3
 ## Day 4
