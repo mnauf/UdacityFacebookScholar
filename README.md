@@ -88,6 +88,11 @@ and another video: [Convolutional Networks](https://lnkd.in/dxJ5fhR)
 
 I think the kernel is incomplete yet. I need to do de-skew the results maybe.
 ## Day 17
+- Even though I had watched videos from 2 to 6 yesterday of local and global differential privacy lesson, I hadn't understood them fully. So today, I read people answers on slack about my confusions regarding these I posted yesterday and today on slack and practiced about the 60 70 % story in local and global differential privacy lesson.
+- Updated the kaggle kernel with the (new code)[https://lnkd.in/dFisB_x]
+
+![Screenshot](https://imgur.com/Sl0rFRg.jpg)
+
 ## Day 18
 ## Day 19
 ## Day 20
