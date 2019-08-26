@@ -124,8 +124,10 @@ Learned about Reinforcement learning
 ![Screenshot](https://imgur.com/1cPLPfW.jpg)
 ![Screenshot](https://imgur.com/KPu0D4q.jpg)
 ## Day 23
+- Continued on with installation of torch in pi for #sg_pytorch-robotics group project. Yesterday night I had put it on installation overnight but installation got messed up and my operating system broke and I had to reinstall it and do it all over again. I am leaving it on installation again today overnight. Hoping for the good. :( <3
 ## Day 24
-
+- I was supposed to install pytorch in python 3.6 or above and I had mistakenly did in 3.5. so tadaaa again installation overnight in pi for #sg_pytorch-robotics :( 
+- Revised the first four videos of lesson federated learning.
 ## Day 25
 - Successfully Installed torch and pysft in Raspberry pi and laptop for a group project. It was a challenging task to install in raspberry pi. The installation took 24 hours to complete, ignoring the fact that another 24 hours I had wasted by installing the above packages in the wrong python version.
 - Practiced a bit federated learning basic coding
