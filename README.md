@@ -30,6 +30,8 @@ https://lnkd.in/dvkJ2hm
 - Finally, attempted the following exercise.
 ![Screenshot](https://imgur.com/O2MQZGQ.png)
 ## Day 5
+- Built and trained a neural network for Fashion MNIST dataset. 
+- Watched 14,15 and 16 video of Lesson Deep Learning with Pytorch.
 ## Day 6
 ## Day 7
 ## Day 8
