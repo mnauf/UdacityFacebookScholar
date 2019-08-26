@@ -108,8 +108,16 @@ https://lnkd.in/dXhKy9T
 ![Screenshot](https://imgur.com/9rFaMn8.png)
 ![Screenshot](https://imgur.com/ZbLJCwu.png)
 ## Day 19
+- Watched last 3 videos of lesson 5
+- [Participated in slack](https://lnkd.in/dZ7XK7r)
+
 ## Day 20
+- Watched first 5 videos of lesson 6
+![Screenshot](https://imgur.com/KVQUHi0.jpg)
 ## Day 21
+Learned about Reinforcement learning
+- Watched this video: [An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0)
+- Read this article: [Not-So-Deep Reinforcement Learning for dummies— Part 1](https://towardsdatascience.com/not-so-deep-reinforcement-learning-for-dummies-part-1-c22416a55535)
 ## Day 22
 ## Day 23
 ## Day 24
