@@ -119,6 +119,10 @@ Learned about Reinforcement learning
 - Watched this video: [An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0)
 - Read this article: [Not-So-Deep Reinforcement Learning for dummies— Part 1](https://towardsdatascience.com/not-so-deep-reinforcement-learning-for-dummies-part-1-c22416a55535)
 ## Day 22
+- Loved the concept of Federated learning. Too excited to do project on it. Watched first four video of this lesson.
+- Setting up torch environment on Pi for #sg_pytorch-robotics group project. It is taking forever to install. Made swap partition. Installed python 3.6. Now am leaving it pytorch to install overnight.
+![Screenshot](https://imgur.com/1cPLPfW.jpg)
+![Screenshot](https://imgur.com/KPu0D4q.jpg)
 ## Day 23
 ## Day 24
 
