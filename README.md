@@ -53,6 +53,9 @@ List of videos I watched today:
 3) [Dropout Regularization (C2W1L06)](https://lnkd.in/geTmeKm)
 ![Screenshot](https://imgur.com/kAmDxv3.jpg)
 ## Day 9
+- Watched 17 and 18 lesson of Deep Learning with PyTorch Lesson.
+- Coded practically, how over fitting leads to variance.
+![Screenshot](https://imgur.com/YvMCgMX.png)
 ## Day 10
 ## Day 11
 ## Day 12
