@@ -96,6 +96,17 @@ I think the kernel is incomplete yet. I need to do de-skew the results maybe.
 ![Screenshot](https://imgur.com/UOzI7Vd.jpg)
 ![Screenshot](https://imgur.com/HSg4Zel.jpg)
 ## Day 18
+1) Participated in Slack by asking questions:
+Question 1: https://lnkd.in/dTAyuyf
+Question 2: https://lnkd.in/dkj8m-p
+2) Practiced local differential privacy code with noise. Proposed changes in the github python notebook because i feel like there is a mistake.
+https://lnkd.in/dXhKy9T
+3) Attended #sg-pakistan virtual meetup
+4) Attended #sg_pytorch-robotics virtual meetup
+![Screenshot](https://imgur.com/cOY7dsb.jpg)
+![Screenshot](https://imgur.com/gimCn15.jpg)
+![Screenshot](https://imgur.com/9rFaMn8.png)
+![Screenshot](https://imgur.com/ZbLJCwu.png)
 ## Day 19
 ## Day 20
 ## Day 21
