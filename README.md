@@ -21,6 +21,14 @@ Even though Back propagation makes me wanna cry, I managed to get something out 
 Learned that how Chain rule is a powerful tool. Back propagation is just merely a tool to calculate the derivative of error with respect to weights for gradient descent. Correspondingly, gradient descent resulting in updating weights such that it minimizes the error.
 ![Screenshot](https://imgur.com/AiwXMnP.png)
 ## Day 4
+OMG I did it with Pytorch! <3 Lalalala. Previously, few months ago I had learnt to train neural networks using Tensorflow but I hadn't try to go in-depth then. Now when I understand much of the concepts and its maths and how pytorch has made them easier to work with, I understand the power of neural networks.
+
+What I did today: 
+- Watched an hour+ long lecture on back propagation, as suggested by udacity course mate, not to forget many other lectures, I have been trying to grasp about back propagation lately. 
+https://lnkd.in/dvkJ2hm
+- Revised video 12 and 13 of Lesson 2 i.e Intro to Pytorch, which were sounding alien before and got amazed how coming back to the same lecture after few days, meanwhile youtubing and googling about Back propagation, loss functions and gradient descent, strengthened my concepts and I easily learned the concepts of video 12 and 13 without pausing in between.
+- Finally, attempted the following exercise.
+![Screenshot](https://imgur.com/O2MQZGQ.png)
 ## Day 5
 ## Day 6
 ## Day 7
