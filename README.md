@@ -32,6 +32,11 @@ https://lnkd.in/dvkJ2hm
 ## Day 5
 - Built and trained a neural network for Fashion MNIST dataset. 
 - Watched 14,15 and 16 video of Lesson Deep Learning with Pytorch.
+![Screenshot](https://imgur.com/X1686YT.png)
+![Screenshot](https://imgur.com/jZvInBi.png)
+![Screenshot](https://imgur.com/lJsVTB1.png)
+![Screenshot](https://imgur.com/xRDg1jH.png)
+![Screenshot](https://imgur.com/azmIjFQ.png)
 ## Day 6
 ## Day 7
 ## Day 8
