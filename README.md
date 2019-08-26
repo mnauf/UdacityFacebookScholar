@@ -79,6 +79,8 @@ and another video: [Convolutional Networks](https://lnkd.in/dxJ5fhR)
 ![Screenshot](https://imgur.com/X92FxeY.jpg)
 ![Screenshot](https://imgur.com/wOgc8EY.jpg)
 ## Day 15
+- Watched last 8 videos of lesson Deep learning with Pytorch
+![Screenshot](https://imgur.com/wjX124S.png)
 ## Day 16
 ## Day 17
 ## Day 18
