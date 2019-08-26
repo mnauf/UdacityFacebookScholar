@@ -42,6 +42,8 @@ I want to understand how dropout works and a coursemate suggested me [the 7th vi
 I have watched first three videos and 4th is in the midst. Tried to read [this research paper](https://lnkd.in/dcWWXej) on dropout first but left it in between xD
 ![Screenshot](https://imgur.com/4UDIX24.jpg)
 ## Day 7
+- Did revision of half completed deep learning with pytorch.
+- learned about regularization from [this source](https://lnkd.in/dt5r4BR)
 ## Day 8
 ## Day 9
 ## Day 10
