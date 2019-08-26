@@ -14,10 +14,8 @@ By the end of Day 1, I have my nano-degree 36% viewed. Spent 3+ hours on Day 1.
 ![Screenshot](https://imgur.com/wSan4ed.jpg)
 ![Screenshot](https://imgur.com/ebJlXTP.jpg)
 ## Day 2
-Day 2
 - Learned the basic intuition of cost function and [back propagation in neural networks](https://lnkd.in/d7vY_jx)
 ## Day 3
-Day 3
 Even though Back propagation makes me wanna cry, I managed to get something out of it. Dived deeply into the derivation to find out what's really going on behind. Thanks to [this article](https://lnkd.in/dvU3iYs)
 
 Learned that how Chain rule is a powerful tool. Back propagation is just merely a tool to calculate the derivative of error with respect to weights for gradient descent. Correspondingly, gradient descent resulting in updating weights such that it minimizes the error.
