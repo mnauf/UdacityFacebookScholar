@@ -66,6 +66,8 @@ and another video: [Convolutional Networks](https://lnkd.in/dxJ5fhR)
 ![Screenshot](https://imgur.com/HowBzPE.png)
 ![Screenshot](https://imgur.com/K7UJJUI.png)
 ## Day 12
+- Tried setting up Cuda environment in local machine by installing cuda toolkit of nvidia and download visual studio. torch.cuda.is_available() still showing False.
+![Screenshot](https://imgur.com/kTvMv0k.jpg)
 ## Day 13
 ## Day 14
 ## Day 15
