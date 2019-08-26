@@ -82,6 +82,11 @@ and another video: [Convolutional Networks](https://lnkd.in/dxJ5fhR)
 - Watched last 8 videos of lesson Deep learning with Pytorch
 ![Screenshot](https://imgur.com/wjX124S.png)
 ## Day 16
+- Watched videos 2 - 6
+- Wrote my first ever kaggle kernel. This is about [Randomized response in differential Privacy](https://lnkd.in/d6-9bN7)
+![Screenshot](https://imgur.com/30l7M6X.jpg)
+
+I think the kernel is incomplete yet. I need to do de-skew the results maybe.
 ## Day 17
 ## Day 18
 ## Day 19
