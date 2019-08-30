@@ -293,6 +293,12 @@ Continued on with CNN Lesson in "Intro to Deep Learning with Pytorch Course" (Id
 - Spent manyyy hoursss on updating the GitHub readme.md for maintaining the 60daysofudacity document. I was procrastinating it for so long.
 [These books will help you learn machine learning youtube video](https://youtu.be/7R08MPXxiFQ)
 ## Day 55
+Trying to install Opencv in widows but why is it so difficult to do so. [Was following this source](https://www.learnopencv.com/install-opencv3-on-windows/)
+I will try tomorrow with ubuntu. It will install in Ubuntu in no time i believe.
+I would encourage Helena Barmer and @Suparna S Nair to keep going :)
+problem solved: it was as easy as pip install opencv-contrib-python
+![Screenshot](https://imgur.com/SDzfF7o)
+![Screenshot](https://imgur.com/bsfP3bR)
 ## Day 56
 Applied different vertical and horizontal filters on different pictures using opencv for "Intro to deep learning with pytorch course" on udacity
 I would like to motivate our Machine Learning PHD Scholar @Juan Carlos Kuri Pinto and skater girl @Mika to keep going :D
