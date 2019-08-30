@@ -285,8 +285,13 @@ Continued on with CNN Lesson in "Intro to Deep Learning with Pytorch Course" (Id
 - #sg_pytorch-robotics meetup. Thanks for joining: @Jess @Mika @Pranjal Chaubey @Elena Kutanov @cibaca @Mateusz @Stanislav Ladyzhenskiy @Sourav @Suparna S Nair @Helena Barmer. I encourage you all to create exciting new learning materials in the last days of this challenge.
 ![Screenshot](https://imgur.com/1PHDD59.jpg)
 - Learned following things in CNN
+
 ![Screenshot](https://imgur.com/Dp5e93T.jpg)
 ## Day 54
+- Watched the video for [suggested machine learnkng books](https://youtu.be/7R08MPXxiFQ)
+- Scanned the book "Machine Learning for Humans" it's good.
+- Spent manyyy hoursss on updating the GitHub readme.md for maintaining the 60daysofudacity document. I was procrastinating it for so long.
+[These books will help you learn machine learning youtube video](https://youtu.be/7R08MPXxiFQ)
 ## Day 55
 ## Day 56
 Applied different vertical and horizontal filters on different pictures using opencv for "Intro to deep learning with pytorch course" on udacity
