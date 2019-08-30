@@ -285,8 +285,13 @@ Continued on with CNN Lesson in "Intro to Deep Learning with Pytorch Course" (Id
 - #sg_pytorch-robotics meetup. Thanks for joining: @Jess @Mika @Pranjal Chaubey @Elena Kutanov @cibaca @Mateusz @Stanislav Ladyzhenskiy @Sourav @Suparna S Nair @Helena Barmer. I encourage you all to create exciting new learning materials in the last days of this challenge.
 ![Screenshot](https://imgur.com/1PHDD59.jpg)
 - Learned following things in CNN
-
 ![Screenshot](https://imgur.com/Dp5e93T.jpg)
+## Day 54
+## Day 55
+## Day 56
+Applied different vertical and horizontal filters on different pictures using opencv for "Intro to deep learning with pytorch course" on udacity
+I would like to motivate our Machine Learning PHD Scholar @Juan Carlos Kuri Pinto and skater girl @Mika to keep going :D
+![Screenshot](https://imgur.com/NvEBBnD.png)
 ## Day 57
 Deep learning cars were attracting me so I watched several videos and [read articles about their implementation. Deep Learning for self-driving cars medium article](https://towardsdatascience.com/deep-learning-for-self-driving-cars-7f198ef4cfa2?fbclid=IwAR2iSPPK01QvFlWM0coQIsj1Yc68YiEzQj-akj-5THoVSM1uLqCzVJUsHXQ)
 
@@ -308,3 +313,5 @@ I would like to encourage @Sayed Maheen Basheer and @sourav kumar to keep going 
 ![Screenshot](https://imgur.com/yE9gR58.jpg)
 ![Screenshot](https://imgur.com/lHx2dKL.jpg)
 ![Screenshot](https://imgur.com/qMtsdm6.jpg)
+## Day 59
+## Day 60
