@@ -291,9 +291,12 @@ Continued on with CNN Lesson in "Intro to Deep Learning with Pytorch Course" (Id
 ## Day 58
 The community has been awesome. I wanted to learn neural networks for so long, but without having nobody to solve my questions, I would always leave. Bidding the course mates farewell who have their last day today here
 - Learned how to code CNNs in course "Intro to deep learning with Pytorch"
-- Showed off 3rd position badge for Showcase project Challenge
+- Showed off 3rd position badge for Showcase project Challenge. [Checkout the project here](https://pytorch-robotics.herokuapp.com/) 
 - Connected with 90+ linkedin, same for Github and kaggel Udacity scholars via Linkedin, Github, Kaggle initiatives respectively on slack.
 - Participated in last AMA session and reverse AMA session
 Note: I will fill in the 60daysofudacity completion form on 1 september to record my highest activity, and luckily i will be completing my 60 days on 1 September too.
 [Documentation for 60dayofudacity](https://github.com/mnauf/UdacityFacebookScholar/blob/master/README.md)
 I would like to encourage @Sayed Maheen Basheer and @sourav kumar to keep going even after this challenge :D 
+![Screenshot](https://imgur.com/yE9gR58.jpg)
+![Screenshot](https://imgur.com/lHx2dKL.jpg)
+![Screenshot](https://imgur.com/qMtsdm6.jpg)
