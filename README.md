@@ -287,6 +287,14 @@ Continued on with CNN Lesson in "Intro to Deep Learning with Pytorch Course" (Id
 - Learned following things in CNN
 
 ![Screenshot](https://imgur.com/Dp5e93T.jpg)
+## Day 57
+Deep learning cars were attracting me so I watched several videos and [read articles about their implementation. Deep Learning for self-driving cars medium article](https://towardsdatascience.com/deep-learning-for-self-driving-cars-7f198ef4cfa2?fbclid=IwAR2iSPPK01QvFlWM0coQIsj1Yc68YiEzQj-akj-5THoVSM1uLqCzVJUsHXQ)
+
+[Ride in NVIDIA's Self-Driving Car](https://youtu.be/1W9q5SjaJTc)
+
+[NVIDIA Jetbot Neural Network Based Collision Avoidance Demo](https://youtu.be/U3VJCSDqdG4)
+
+I would like to motivate @Frida @Jess to keep going as they have completed their 60 days.
 
 ## Day 58
 The community has been awesome. I wanted to learn neural networks for so long, but without having nobody to solve my questions, I would always leave. Bidding the course mates farewell who have their last day today here
