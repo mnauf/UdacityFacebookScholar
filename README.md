@@ -325,4 +325,7 @@ I would like to encourage @Sayed Maheen Basheer and @sourav kumar to keep going 
 ![Screenshot](https://imgur.com/lHx2dKL.jpg)
 ![Screenshot](https://imgur.com/qMtsdm6.jpg)
 ## Day 59
+Did a bit revision of "Intro to deep learning with pytorch" course and learned further.
+I would like to encourage Suparna S Nair and Taimur Zahid to keep up their learning spirit after this challenge ends
+![Screenshot](https://imgur.com/A60Upyl.jpg)
 ## Day 60
