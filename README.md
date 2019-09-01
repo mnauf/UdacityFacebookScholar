@@ -329,3 +329,7 @@ Did a bit revision of "Intro to deep learning with pytorch" course and learned f
 I would like to encourage Suparna S Nair and Taimur Zahid to keep up their learning spirit after this challenge ends
 ![Screenshot](https://imgur.com/A60Upyl.jpg)
 ## Day 60
+Continued on with "Intro to deep learning with pytorch" course.
+Last day with this scholarship challenge. I even continued this streak during my final exams of 6th semester xD. Learned a lot from the community. I didn't know until today, how truly environment affects you. Made soo many new friends. Dared to approach people like Andrew Liam Trask and Daniele Gadler personally in slack. Didn't know before, people like them are approachable. Online meetups,webinars, project and blogging competitions were fun. and the best thing is, it doesn't stop here. It revealed to me many more opportunities :D Wishing myself luck for phase 2!
+
+![Screenshot](https://imgur.com/Eq8wwap.jpg)
