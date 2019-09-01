@@ -330,6 +330,10 @@ I would like to encourage Suparna S Nair and Taimur Zahid to keep up their learn
 ![Screenshot](https://imgur.com/A60Upyl.jpg)
 ## Day 60
 Continued on with "Intro to deep learning with pytorch" course.
-Last day with this scholarship challenge. I even continued this streak during my final exams of 6th semester xD. Learned a lot from the community. I didn't know until today, how truly environment affects you. Made soo many new friends. Dared to approach people like Andrew Liam Trask and Daniele Gadler personally in slack. Didn't know before, people like them are approachable. Online meetups,webinars, project and blogging competitions were fun. and the best thing is, it doesn't stop here. It revealed to me many more opportunities :D Wishing myself luck for phase 2! I look forward to join Karachi Facebook Developer Group (which is inactive these days and will become active again soon) and keep an eye on Facebook AI residency applications opening :)
+Last day with this scholarship challenge 👻. I would encourage Aisha Javed and Taimour Abbas, my Pakistani mates, to keep up their learning spirits :) 
+
+I continued this streak during my final exams of 6th semester 😈. Learned a lot from the community. I didn't know until today, how truly environment affects you. Made soo many new friends. Dared to approach people like Andrew Liam Trask and Daniele Gadler personally in slack. Didn't know before, people like them are approachable. Online meetups,webinars, project and blogging competitions were fun. and the best thing is, it doesn't stop here. It revealed to me many more opportunities 🏆
+
+Wishing myself luck for phase 2! I look forward to join Karachi Facebook Developer Group (which is inactive these days and will become active again soon) and keep an eye on Facebook AI residency applications opening :)
 
 ![Screenshot](https://imgur.com/Eq8wwap.jpg)
