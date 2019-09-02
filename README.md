@@ -337,3 +337,8 @@ I continued this streak during my final exams of 6th semester 😈. Learned a lo
 Wishing myself luck for phase 2! I look forward to join Karachi Facebook Developer Group (which is inactive these days and will become active again soon) and keep an eye on Facebook AI residency applications opening :)
 
 ![Screenshot](https://imgur.com/Eq8wwap.jpg)
+
+------------------------------------------------------------------------------------------------
+
+Got the badge
+![Screenshot](https://imgur.com/gP3YsY2.png)
